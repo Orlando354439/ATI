@@ -155,6 +155,10 @@ font-size: 20px;
     background: #533f3f;
 }
 .contact {
+    background:rgb(92, 55, 55);
+    padding-bottom: 0;
+}
+.Tecnología {
     padding-top: 186px;
     background: url(s/Nosotros.jpg) no-repeat center;
     padding-bottom: 0;
